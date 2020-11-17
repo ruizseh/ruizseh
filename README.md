@@ -5,7 +5,10 @@
 
 
 ### Hey, 👋🏽
-My name is Sérgio Ruiz, I'm from Brasil. 🌎
+
+My name is Sérgio Ruiz. 
+
+I'm from Brasil.🌎
 
 I'm studying for Full stack Java Junior Developer. 💻
 
