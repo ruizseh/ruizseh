@@ -1,4 +1,4 @@
-![Header](https://github.com/ruizseh/ruizseh/blob/main/giphy.gif)
+<p align="center"><img src="https://github.com/ruizseh/ruizseh/blob/main/giphy.gif"/></p>
 
 
 ### Hey, 👋🏽
