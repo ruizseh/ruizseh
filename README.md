@@ -1,4 +1,4 @@
-![Header](https://github.com/ruizseh/ruizseh/blob/main/giphy-backdrop.mp4)
+![Header]()
 
 
 ### Hey, 👋🏽
