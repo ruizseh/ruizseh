@@ -1,11 +1,10 @@
 <p align="center"><img src="https://github.com/ruizseh/ruizseh/blob/main/giphy.gif"/></p>
 
 
-### Hey, 👋🏽
+### I'm from Brasil.🌎
 
-I'm from Brasil.🌎
-
-I'm studying for Full stack Java Junior Developer. 💻
+ 
+## I'm studying for Full stack Java Junior Developer. 💻
 
 
 
