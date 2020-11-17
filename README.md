@@ -5,9 +5,12 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
+
 My name is Sérgio Ruiz, I'm from Brasil. 🌎
 
 I'm studying for Full stack Java Junior Developer. 💻
+
+
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fsergioruiz@gmail.com)](mailto:fsergioruiz@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/sergio-ruiz-86303a113/)
